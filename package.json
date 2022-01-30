@@ -1,0 +1,22 @@
+{
+  "name": "codebreak3.0",
+  "version": "1.0.0",
+  "description": "codebreak3.0 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fuzailkazi/testproj01.git"
+  },
+  "author": "Fuzail Kazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fuzailkazi/testproj01/issues"
+  },
+  "homepage": "https://github.com/Fuzailkazi/testproj01#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  }
+}
